@@ -10,7 +10,7 @@ But first I need a wallet. In crypto parlance I want to start with a "non-custo
 
 ## Funding a wallet with USDC
 
-OK, so Coinbase is a leading stablecoin provider. I went there and signed up for an "individual" account. It asked me some (probably marketing) questions and had me do a pretty simple KYC flow where I took a picture of the front and back of my drivers license right there in the browser.
+OK, so Coinbase is a leading platform for exchanging cryptocurrency. I went there and signed up for an "individual" account. It asked me some (probably marketing) questions and had me do a pretty simple KYC flow where I took a picture of the front and back of my drivers license right there in the browser.
 
 And voila, in a matter of minutes I had an account on Coinbase.
 
