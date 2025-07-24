@@ -44,8 +44,8 @@ Or, is stablecoin cash?
 
 Is it kind of both?
 
-Am I now a crypto bro?
+Obviously I'm playing a bit dumb here. But I really am curious how ready stablecoins are for consumer use, despite what the current wave of hype is saying. A physical rectangular fiat paper dollar is pretty easy to understand. But stablecoins still have a lot of crypto baggage. Remember that the prefix _crypto-_ means secret or hidden knowledge. The promise of secret hidden money knowledge (that _They_ cannot keep from you) is what makes crypto enticing to so many people. Some may not want to sand off the rough edges.
 
-Do I really earn 4.10% on my USDC? That's actually a pretty good rate, but as of today my regular, non-crypto high-interest savings account earns a slightly higher rate of 4.20%. Oh, and it's insured by the FDIC. Something tells me my Coinbase account is not. (_Crypto markets are unique_...)
+Also, do I really earn 4.10% on my USDC? That's actually a pretty good rate, but as of today my regular, non-crypto high-interest savings account earns a slightly higher rate of 4.20%. Oh, and it's insured by the FDIC. Something tells me my Coinbase account is not. (_Crypto markets are unique_...)
 
 I have so many questions, but this was a fun foray into cryptoland. Next I'd like to do something interesting with my magical stablecoins in the cloud, but that's all for now.
