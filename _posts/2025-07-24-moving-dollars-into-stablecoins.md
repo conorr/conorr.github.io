@@ -46,6 +46,6 @@ Is it kind of both?
 
 Am I now a crypto bro?
 
-Do I actually earn 4.10% on my USDC? That's actually a pretty good rate, but as of today my regular, non-crypto high-interest savings account earns a slightly higher rate of 4.20%. Oh, and it's insured by the FDIC. Something tells me my Coinbase account is not. (_Crypto markets are unique_...)
+Do I really earn 4.10% on my USDC? That's actually a pretty good rate, but as of today my regular, non-crypto high-interest savings account earns a slightly higher rate of 4.20%. Oh, and it's insured by the FDIC. Something tells me my Coinbase account is not. (_Crypto markets are unique_...)
 
 I have so many questions, but this was a fun foray into cryptoland. Next I'd like to do something interesting with my magical stablecoins in the cloud, but that's all for now.
