@@ -18,7 +18,7 @@ And voila, in a matter of minutes I had an account on Coinbase.
 
 Next I need to get some money into my account. OK, let's add funds from my bank.
 
-![hello-plaid](/img/moving-dollars-into-stablecoin/hello-plaid.png)
+<img src="/img/moving-dollars-into-stablecoin/hello-plaid.png" alt="hello plaid" width="50%"/>
 
 Hey, look at that, Plaid pops up. Using my phone number, Plaid shows me that it already knows how to connect to my bank accounts. I must have used Plaid on some other web sites. At this point I started to feel a little unsettled, like I was crossing a point of no return into cryptoland and I was bringing a trail with me that could be followed back to my traditional bank accounts. Oh well. I connected my checking account.
 
