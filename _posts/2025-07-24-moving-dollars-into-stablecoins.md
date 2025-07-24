@@ -30,7 +30,7 @@ I don't really want to "buy crypto", I want to turn dollars into USDC. But whate
 
 <img src="/img/moving-dollars-into-stablecoin/summary-screen.png" alt="summary screen" width="50%"/>
 
-Other than a mysterious 4.10% "earning rate" &mdash; I thought I was turning dollars into USDC, not funding a high-yield savings account? &mdash; and a forboding _Crypto markets are unique_ warning, I was able to turn 10 USD into 10 USDC without any fees.
+Other than a mysterious 4.10% "earning rate" &mdash; I thought I was turning dollars into USDC, not funding a high-yield savings account? &mdash; and a foreboding _Crypto markets are unique_ warning, I was able to turn 10 USD into 10 USDC without any fees.
 
 And with that, Coinbase tells me I have $10 of USDC in my account. Strangely, it puts USDC assets under the "Cash" tab, not "Crypto". I thought I just bought crypto?
 
