@@ -28,7 +28,7 @@ Now I can "buy crypto". Ugh. That's a button I never thought I would click on pu
 
 I don't really want to "buy crypto", I want to turn dollars into USDC. But whatever, I guess that's saying the same thing? Let's do this.
 
-![summary-screen](/img/moving-dollars-into-stablecoin/summary-screen.png)
+<img src="/img/moving-dollars-into-stablecoin/summary-screen.png" alt="summary screen" width="50%"/>
 
 Other than a mysterious 4.10% "earning rate" &mdash; I thought I was turning dollars into USDC, not funding a high-yield savings account? &mdash; and a forboding _Crypto markets are unique_ warning, I was able to turn 10 USD into 10 USDC without any fees.
 
