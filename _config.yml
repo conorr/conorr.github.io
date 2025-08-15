@@ -5,9 +5,9 @@ description: "Conor T. Ryan's blog." # This will show up in places like twitter,
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+#twitter_username: "twitteruser"
+github_username: "conorr"
+linkedin_username: "conor-t-ryan-97759137"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
