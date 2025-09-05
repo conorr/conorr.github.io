@@ -93,6 +93,8 @@ Unfortunately, it's not always in the interest of big tech companies to develop 
 
 Open protocols are meant to promote interopability, but their second order effects are to prevent lock-in and encourage competition. These are essential things for economic freedom.
 
-Not to mention that fact that open protocols often create _massive value_. It's just that the value is not captured by one firm, but is distributed over many. The Internet itself is a classic example. Think of the uncountable trillions in value it has created, yet it is based on an open protocol (HTTP). The Internet as we know it today could never have grown out of a proprietary protocol.
+Not to mention that fact the open protocols often create _massive value_. It's just that the value is not captured by one firm, but is distributed over many. The Internet itself is a classic example. Think of the uncountable trillions in value it has created, yet it is based on an open protocol (HTTP). The Internet as we know it today could never have grown out of a proprietary protocol.
 
-So I am a pleasantly surprised to see this in the AI space. I am not a huge AI booster, but I do view the open competition in the AI space as a positive development in the tech industry.
+[Matter](https://en.wikipedia.org/wiki/Matter_(standard)) is a recently developed protocol that is intended to solve the interoperability problems between Smart Home devices. A major reason why Smart Home systems never took off was because they were all proprietary! If the Matter standard is successful, we could finally see Smart Home systems become successful, and lots of economic activity could be created as a result.
+
+So I am a pleasantly surprised to see an open protocol in the AI space. I am not a huge AI booster, but I do view the open competition in the AI space as a positive development in the tech industry.
