@@ -4,7 +4,7 @@ Recently at work I was debugging a problem with go’s debugger, delve (`dlv`). 
 
 Anyways in the course of this problem solving I was forced to do a deep dive into the client and server connection between the headless `dlv` instance and my IDE. I came across the fact that delve and my IDE use JSON-RPC to communicate, which I found interesting.
 
-It turns out that when you run your go code with the `dlv` process and connect to the debugger using an IDE like VS Code or GoLand, the IDE and the delve server exchange JSON-RPC messages to inform the IDE about the current state of the debugger. The current state of the debugger being things like the call stack, the values of locals, and the symbols under the current breakpoint. The IDE can then message the debugger to do things like set breakpoints, step execution, and so on.
+It turns out that when you run your go code with the `dlv` process and connect to the debugger using an IDE like VS Code or GoLand, the IDE and the delve server exchange JSON-RPC messages to inform the IDE about the current state of the debugger. The current state of the debugger being things like the call stack, the values of locals, and the symbols under the current breakpoint. The IDE can then message the debugger to do things like set new breakpoints, step execution forward, and so on.
 
 **What makes JSON-RPC a good fit for the interaction beween a debugger and an IDE?** I realized that while I was dimly aware that JSON-RPC existed and was related to remote procedure calls, I didn’t know all that much about it, or the RPC paradigm in general.
 
@@ -77,9 +77,9 @@ So this is all pretty straightfoward: JSON-RPC is just a way to call a method in
 
 But how do we actually get the message to that other process?
 
-# Not a wire protocol
+# Not a transport protocol
 
-An interesting nuance with JSON-RPC is that it is not itself a wire protocol. It's only a message protocol, so it does not define or even care how messages are transported. (To confuse things a bit, other RPC protocols like gRPC are both message and wire protocols!)
+An interesting thing about JSON-RPC is that it is not itself a transport protocol. It's only a message protocol, so it does not define or even care how messages are transported.
 
 In the weather data server example above, we could deliver the message using HTTP. We'd just build an endpoint `/rpc` that knows how to handle JSON-RPC messages:
 
@@ -122,4 +122,4 @@ What we think of as a Bitcoin transaction is an interaction between a client (wa
 
 And what message protocol does Bitcoin use? JSON-RPC, of course!
 
-In fact, JSON-RPC has become the de facto standard for blockchain node APIs across much of the cryptocurrency ecosystem. This is because it's lightweight, language-agnostic, and transport-agnostic. Yet another example of a simple protocol enabling asymmetric value.
+In fact, JSON-RPC has become the de facto standard for blockchain node APIs across much of the cryptocurrency ecosystem. This is because it's lightweight, language-agnostic, and transport-agnostic. It's yet another example of a simple protocol enabling asymmetric value.
